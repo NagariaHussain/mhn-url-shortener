@@ -2,6 +2,7 @@
 	"name": "mhn-url-shortner",
 	"version": "1.0.0",
 	"description": "",
+	"baseUrl": "https://mdhussain.netlify.app",
 	"main": "index.js",
 	"scripts": {
 		"shorten": "netlify-shortener"
