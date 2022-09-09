@@ -1,8 +1,9 @@
-/fc        https://frappecloud.com
-/press     https://github.com/frappe/press
-/frappe    https://frappe.io
-/dftba     https://frappe.io
-/example   http://example.com
+/idea-wallet   https://ideawallet.app
+/fc            https://frappecloud.com
+/press         https://github.com/frappe/press
+/frappe        https://frappe.io
+/dftba         https://frappe.io
+/example       http://example.com
 
 #fallback
-/*         https://hussain.codes
+/*             https://hussain.codes
